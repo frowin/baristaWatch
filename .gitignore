@@ -1,0 +1,14 @@
+
+.DS_Store
+
+mainPCB/fp-info-cache
+
+*.kicad_pcb-bak
+
+*.sch-bak
+
+mainPCB/sym-lib-table
+
+software/baristaWatch-Minimal/build/
+
+software/baristaWatch-Minimal/secrets.ino

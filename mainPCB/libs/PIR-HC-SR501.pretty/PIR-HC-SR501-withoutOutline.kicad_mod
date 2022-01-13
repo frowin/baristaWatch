@@ -1,0 +1,11 @@
+(module PIR-HC-SR501-withoutOutline (layer F.Cu) (tedit 60A14B37)
+  (fp_text reference U2 (at 6 11) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value PIR-HC-SR501-withoutOutline (at 6 8) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 3 thru_hole circle (at 9.04 -2.5) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 3.96 -2.5) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 6.5 -2.5) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+)

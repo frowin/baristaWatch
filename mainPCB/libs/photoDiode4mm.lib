@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# photoDiode4mm
+#
+DEF photoDiode4mm U 0 40 Y Y 1 F N
+F0 "U" 200 50 50 H V C CNN
+F1 "photoDiode4mm" 100 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -50 100 250 -100 0 1 0 N
+X VCC 1 50 200 100 D 50 50 1 1 W
+X DAT 2 150 200 100 D 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library
